@@ -3,4 +3,8 @@ Hello Would
 How are you 
 file commit
 it's working
+<<<<<<< HEAD
 hello main
+=======
+hello 
+>>>>>>> feature/navbar
